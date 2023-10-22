@@ -3,6 +3,9 @@
 This project is a movie website created using HTML, CSS, and JavaScript. It features a collection of movies organized into different categories.
 
 # Demo
+
+![Spiderman](https://github.com/UmitAygunn/Film-Site-/assets/140657845/bf835d44-ea40-4c71-ab27-c3caed2f8db7)
+
 Live Demo - Explore the live demo of the movie website to browse through categorized movies and experience the user interface.
 1) https://65338d06307ae27f44c84f07--jolly-lily-b68182.netlify.app/
 
